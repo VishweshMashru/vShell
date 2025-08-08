@@ -28,4 +28,4 @@ This project is intended as a learning resource for understanding how shells wor
 ## Build
 
 ```bash
-gcc -Wall -Wextra -O2 mshell.c -o mshell
+gcc -Wall -Wextra -O2 mshell.c -o vshell
