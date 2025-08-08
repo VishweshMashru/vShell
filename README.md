@@ -1,6 +1,6 @@
 # VShell — Minimal Unix Shell in C
 
-`mshell` is a small, educational Unix-like shell implemented in pure C (POSIX).  
+`vShell` is a small, educational Unix-like shell implemented in pure C (POSIX).  
 It supports common shell features like pipelines, I/O redirection, background jobs, and simple variable expansion.
 
 This project is intended as a learning resource for understanding how shells work under the hood, including tokenization, parsing, and process management.
